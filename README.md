@@ -1,4 +1,4 @@
-# Sequence Analysis Toolbox 2022
+# Sequence Analysis Toolbox 2023
 Sequence data resources for Students practicals
 
 [16S_rRNA.fasta](https://github.com/mchialva/SequenceAnalysisToolbox/blob/main/16S_rRNA.fasta) - An unknow rRNA bacterial operon to taxonomically assign using online BLAST tool
